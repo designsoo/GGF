@@ -22,7 +22,7 @@
 - 클랜원 모집
 - 게임 공략
 
-# ❓ How to run this project
+## ❓ How to run this project
 ```
 # repository clone
 git clone https://github.com/sprint-team3/GGF.git
@@ -43,7 +43,7 @@ npm run build
 npm run start
 ```
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 ### Language  
 <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white">
 
@@ -60,12 +60,12 @@ npm run start
 
 <br />
 
-# ⬇️ Flow Chart
+## ⬇️ Flow Chart
 <img width="3420" alt="User_Flow" src="https://github.com/sprint-team3/GGF/assets/92169354/cffea369-a117-41f2-a450-ed636d779776">
 
 <br />
 
-# 🚀 기능 시연
+## 🚀 기능 시연
 - [Features By Pages-Landing](https://github.com/sprint-team3/GGF/wiki/Features-by-pages-:-Landing)
 - [Features By Pages-List](https://github.com/sprint-team3/GGF/wiki/Features-by-pages-:-List)
 - [Features By Pages-PostDetail](https://github.com/sprint-team3/GGF/wiki/Features-by-pages-:-Post-Detail)
@@ -74,7 +74,7 @@ npm run start
 
 <br />
 
-# 💻 담당 기능
+## 💻 담당 기능
 ### ChatBot 구현
 - OpenAI를 활용한 대화형 챗봇으로 편의성 제공 및 사용자의 초기 접근성 향상을 위한 FAQ(자주 묻는 질문) 제공
 ### 예약하기 / 취소하기
@@ -96,7 +96,7 @@ npm run start
 
 <br />
 
-# 🧑‍💻 Team
+## 🧑‍💻 Team
 
 <table>
   <tr>
@@ -124,6 +124,3 @@ npm run start
     <td align="center">허스키맛 개발자</td>
   </tr>
 </table>
-
-
-
